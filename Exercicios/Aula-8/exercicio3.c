@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 int main(){
     float ganhador1, ganhador2, ganhador3, porcentagem1, porcentagem2, porcentagem3, valor_premio, valor_total_aposta;
     printf("O quanto o amigo 1 aspostou: R$");

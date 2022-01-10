@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 int main(){
     int dia_nascimento, mes_nascimento, ano_nascimento, dia_atual, mes_atual, ano_atual, idade_extra;
     printf("Coloque a data de nascimento separado por espacos: ");

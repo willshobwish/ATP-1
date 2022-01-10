@@ -1,5 +1,7 @@
-#include<stdio.h>
 //Faça um programa para ler um valor inteiro em segundos e imprimir o correspondente em horas, minutos e segundos.
+
+#include<stdio.h>
+
 int main(){
     int horas, minutos, segundos, segundo_resposta, auxiliar;
     printf("Segundos para converter: ");

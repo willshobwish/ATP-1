@@ -1,5 +1,7 @@
-// Faça um programa para verificar se um determinado número inteiro é divisível por 3 e por 5 
+// Faça um programa para verificar se um determinado número inteiro é divisível por 3 e por 5
+
 #include<stdio.h>
+
 int main(){
     int numero;
     printf("Coloque um numero inteiro: ");

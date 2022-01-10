@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 int main(){
     float media_prova, media_trabalho, media_final;
     printf("Coloque a media da prova: ");

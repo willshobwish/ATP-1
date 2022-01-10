@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 int main(){
     float numero_1, numero_2, resultado;
     char operacao;

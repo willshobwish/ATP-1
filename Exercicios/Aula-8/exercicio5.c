@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 int main(){
     int gasto, cupom, cupons_ganho;
     printf("Quantos gastou nesse supermercado: ");

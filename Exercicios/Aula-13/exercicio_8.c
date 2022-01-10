@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 int main(){
     int ladoA, ladoB, ladoC;
     printf("Coloque os tres lados dos triangulos: ");
